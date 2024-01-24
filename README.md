@@ -1,11 +1,8 @@
-[![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdnb.artstation.com/p/assets/images/images/039/699/313/original/louis-riveron-pyxelrayn-chilling-detective3.gif?1626687921](https://cdnb.artstation.com/p/assets/images/images/039/699/313/original/louis-riveron-pyxelrayn-chilling-detective3.gif?1626687921)))](https://rishavchanda.io)
+[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/039/699/313/original/louis-riveron-pyxelrayn-chilling-detective3.gif?1626687921))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed Hasan (yen)</h1>
 <h3 align="center">A passionate FullStack developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif)"/>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yennzies&label=Profile%20views&color=0e75b6&style=flat" alt="yennzies" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yennzies" alt="yennzies" /></a> </p>
 
 - 🔭 I’m currently working on **Isekai**
 
